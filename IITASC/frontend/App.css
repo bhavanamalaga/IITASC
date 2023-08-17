@@ -1,0 +1,140 @@
+div.loginbutton {
+    background: skyblue;
+    padding: 30px;
+    text-align: right;
+}
+div.welcome {
+    text-align: center;
+    padding: 20%;
+}
+h1.welcome {
+    text-decoration-line: underline;
+    text-decoration-style: double;
+    text-decoration-color: brown;
+    padding: 10px;
+    color: darkgoldenrod;
+}
+a {
+    text-decoration-line: none;
+    font-size: 30px;
+    padding: 10px;
+}
+div.afterlogin {
+    background-color: deepskyblue;
+    text-align: left;
+    padding: 30px;
+}
+.login {
+    margin-left: 400px;
+    margin-top: 200px;
+}
+input.details {
+    display: block;
+    margin: 10px;
+    padding: 8px;
+    width: 250px;
+    border: 2px solid;
+}
+button.loginbutton {
+    display: block;
+    margin: 10px;
+    margin-top: 30px;
+    padding: 10px;
+    width: 200px;
+    border: 1px solid;
+    background: brown;
+    color: blue;
+    cursor: pointer;
+}
+
+h5.logindata {
+    margin: 5px;
+    text-decoration-style: double;
+    color: blue;
+}
+
+div.sdata {
+    text-align: center;
+    margin: 50px;
+}
+
+li.sdata {
+display: inline-block;
+border: 1px solid deepskyblue;
+padding: 10px;
+width: 100px;
+}
+
+ul.sdata {
+    margin: 0px;
+}
+
+.sdata ul li button {
+    display: inline-block;
+    border: 1px solid deepskyblue;
+    padding: 0px;
+    width: 100px;
+    background-color: brown;
+}
+
+.courseinfo {
+    text-align: center;
+    margin: 50px;
+}
+
+.courseinfo ul {
+    margin: 0px;
+}
+
+table {
+    width: 100%;
+    border: 2px solid;
+    padding: 10px;
+}
+
+th {
+    border-bottom: 2px solid;
+}
+
+li.courseid {
+    display: inline-table;
+    margin: 2px;
+    border: 1.5px solid brown;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+button.regbutton {
+    margin-bottom: 20px;
+    color: firebrick;
+    font-size: larger;
+    padding: 10px;
+    width: 50%;
+    background-color: yellow;
+    cursor: pointer;
+}
+
+tr.creg {
+    text-align: center;
+}
+
+input[type="text"].csearch {
+    margin-left: 250px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    padding: 10px;
+    width: 50%;
+    background-color: yellow;
+}
+
+h1.iinfo {
+    display: block;
+    font-size: 50px;
+    font-weight: 800;
+}
+
+h3.iinfo {
+    font-weight: 300;
+    display: block;
+    font-size: 25px;
+}
